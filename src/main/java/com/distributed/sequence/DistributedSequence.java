@@ -6,4 +6,5 @@ package com.distributed.sequence;
 public interface DistributedSequence {
 
     public Long sequence(String sequenceName);
+    
 }
